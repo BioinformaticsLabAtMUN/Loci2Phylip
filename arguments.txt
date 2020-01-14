@@ -1,0 +1,46 @@
+ID for 36 species:
+E2
+C7
+E7
+H2
+D2
+E8
+E4
+G8
+H8
+A9
+B2
+D9
+A2
+C2
+D3
+G9
+B4
+A4
+G3
+E10
+H9
+E9
+C10
+F10
+G10
+H10
+A11
+B11
+C11
+D11
+E11
+F11
+G11
+H11
+A12
+B12
+
+Extract loci with:
+minimum of 5 (F11, E11, A12, B12, D11, G11, H11) ## outgroup species
+minimum of 3 (C10, F10, G10, H10, A11) ## asian species
+minimum of 1 (B11, C11) ## african speciesminimum of 1 (G3 and/or E10) ## austral species
+minimum of 2 (H9, D3, G9) ## subtropical South America
+minimum of 4 (D9, A2, C2, A9, A4, E9) ## tropical South America
+minimum of 5 (G8 and/or H8, E8, E4, H2, D2, E2, C7, E7) ## caribbean species 
+
