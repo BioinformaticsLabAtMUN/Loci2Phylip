@@ -43,4 +43,4 @@ The tab delimited file will be a square matrix indicating the number of loci in 
 
 If you use this script, please cite:
 
-María Esther Nieto-Blázquez, Lourdes Peña-Castillo and Julissa Roncal. (2020) Historical biogeography of Caribbean Podocarpus does not support the progression rule. Under review.
+María Esther Nieto-Blázquez, Lourdes Peña-Castillo and Julissa Roncal. (2020) [Historical biogeography of Caribbean Podocarpus does not support the progression rule.]( https://doi.org/10.1111/jbi.14034) Journal of Biogeography.
